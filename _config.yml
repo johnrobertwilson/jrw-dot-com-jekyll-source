@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: John Robert Wilson
 locale: en_US
-description: Describe your website here.
+description: Words.
 logo: site-logo.png
 search: true
 url: http://localhost:4000
@@ -31,13 +31,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: John Robert Wilson
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: fu@noneofyourbusiness.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  twitter: JohnrobertWilso
+  facebook: JohnRobertWilson
+  github: johnrobertwilson
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
