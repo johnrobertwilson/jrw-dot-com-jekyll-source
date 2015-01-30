@@ -6,7 +6,7 @@ categories: articles
 tags: [sample-post, video]
 comments: true
 share: true
-published: false
+published: true
 ---
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/pdSp4Y4GOQs" frameborder="0"> </iframe>
