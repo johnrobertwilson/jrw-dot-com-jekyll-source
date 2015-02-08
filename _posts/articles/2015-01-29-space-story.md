@@ -6,9 +6,8 @@ categories: articles
 tags: [short-stories]
 modified: 2015-01-30
 image:
-  feature: so-simple-sample-image-3.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: sphere.jpg
+  credit: NASA
 comments: false
 share: true
 published: true
@@ -26,4 +25,18 @@ In the end he ends up hijacking a freighter ship to escape and blows up the comm
 
 The story ends as he sees the martian fleet overtake the horizon over the moon as he escapes.
 
+Characters:
+
+Tully - main character, half martian half earthling, sleeper agent for Martian special operations.
+
+Chris - Tully's friend who works with the Moonrakers.
+
 ## END STORY NOTES
+
+His heart sank. Tully gulped as he reached over to turn his wrist beacon off. It was a small inconspicous thing that all humans wore. He had been in the middle of harvesting this afternoon's load when it received the signal. While going through the workers' common area he had noticed the holoviewers reporting of renewed tensions over Martian gold. It was only after a matter time after the rumors had started that he knew he'd be getting the call.
+
+It had all seemed so long ago back on Mars during his training. He had been selected specifically for his full-travel status, given his martian father and earthling mother. He quickly rose among his peers at the Martian military academy. When he had started his mission everything was so clear in his mind: Earthlings are greedy callous people and all we're doing is preventing the inevitable strike on them. Now though, it was all too murky.
+
+Tully slowly landed his rakermech at service bay 16 alongside Base Apollo. "Sabotage the Apollo communications grid" kept passing in his head like a marquee. He remembered snarkily thinking there was no question what his sleeper cell's next mission was about. Now that he was here in the moment, it felt almost wrong. In previous missions, all he had to do was wait in some rented out house in Jagoff, Nowhere USA and boost up relays to some satellite that was about to burn up.
+
+"No, this is different," he thought as he leaped out of his mech, "I came here among these simple mining people and they accepted me into their homes." Memories of his friend Chris teaching him the idiosyncricies of a rakermech, things his training officiers could never teach him
