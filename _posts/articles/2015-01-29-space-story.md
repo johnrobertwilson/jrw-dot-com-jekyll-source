@@ -57,4 +57,4 @@ Earth's government had always overreached for Martian resources. Ever since the 
 
 [TODO: Something bad happens to Tully here. He is forced to kill someone that he knows. He sets the charges and heads for an escape pod.]
 
-The cannons on the south tower were too busy trained on the incoming fleet to notice the disaster pod floating up. All of a sudden the entirety of the fleet came into view. Tully noticed several new warships, weaponized pleasure cruisers and freighters that had turrents welded to their hulls. It was like the whole Martian population had united to stop Earth.
+The cannons on the south tower were too busy trained on the incoming fleet to notice the disaster pod floating up. Suddenly the entirety of the fleet came into view. Tully noticed several new warships, weaponized pleasure cruisers, spitfires and freighters that had turrents welded to their hulls. It was like the whole Martian population had joined the fleet. Rightly so, this was the first fleet of Mars.
